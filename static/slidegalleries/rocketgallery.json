@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "alt": "Zack and Alex arming a rocket.",
+        "src": "/img/gallery/rockets/zackAlex.png"
+    },
+    {
+        "id": 1,
+        "alt": "Zack training some RRPL newbies.",
+        "src": "/img/gallery/rockets/zackTraining.jpg"
+    },
+    {
+        "id": 2,
+        "alt": "A picture before launch.",
+        "src": "/img/gallery/rockets/zackAlexAaron.jpg"
+    },
+    {
+        "id": 3,
+        "alt": "An RRPL presentation.",
+        "src": "/img/gallery/rockets/blackboard.jpg"
+    }
+]

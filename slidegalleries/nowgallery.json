@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "alt": "Group photo of the founders.",
+        "src": "/img/gallery/now/founders.jpg"
+    },
+    {
+        "id": 1,
+        "alt": "One of our meetings.",
+        "src": "/img/gallery/now/meeting.jpg"
+    },
+    {
+        "id": 2,
+        "alt": "Zack working on Machinist.",
+        "src": "/img/gallery/now/zackWorking.jpg"
+    }
+]

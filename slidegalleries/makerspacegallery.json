@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "alt": "Makerspace in the winter.",
+        "src": "/img/gallery/makerspace/makerspace.png"
+    },
+    {
+        "id": 1,
+        "alt": "Some rocket fins being machined.",
+        "src": "/img/gallery/makerspace/finsOnCNC.jpg"
+    },
+    {
+        "id": 2,
+        "alt": "Rocket fins polished up!",
+        "src": "/img/gallery/makerspace/finsMade.jpg"
+    }
+]
